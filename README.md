@@ -1,1 +1,8 @@
 ![轮播图1](http://github.com/lucky-lizhirui/lucky-lizhirui.github.io/blob/main/f15eb42a-2a9c-4077-b305-35e6121d0cab.png)
+![轮播图2](http://github.com/lucky-lizhirui/lucky-lizhirui.github.io/blob/main/9661eb48-57d1-409a-b0a2-0e17d963fe7c.png)
+![功能说明](http://github.com/lucky-lizhirui/lucky-lizhirui.github.io/blob/main/c6ad1d6a-9c29-42d6-8719-e5a20ddc19ec.png)
+![规格型号](http://github.com/lucky-lizhirui/lucky-lizhirui.github.io/blob/main/bb04be4b-3a1b-4149-91c4-38b9f3dd8846.png)
+![技术参数](http://github.com/lucky-lizhirui/lucky-lizhirui.github.io/blob/main/1df5df71-7056-439d-a78f-ead38060a046.png)
+![特性曲线](http://github.com/lucky-lizhirui/lucky-lizhirui.github.io/blob/main/995c1b11-81e8-4aa0-ab96-1857ff681a15.png)
+![元件尺寸1](http://github.com/lucky-lizhirui/lucky-lizhirui.github.io/blob/main/dbb43527-8515-4922-b6a9-22a127cffdd8.png)
+![元件尺寸2](http://github.com/lucky-lizhirui/lucky-lizhirui.github.io/blob/main/47399e37-c083-4de5-a0df-e82bfc53ef83.png)
