@@ -6,3 +6,4 @@
 ![特性曲线](http://github.com/lucky-lizhirui/lucky-lizhirui.github.io/blob/main/995c1b11-81e8-4aa0-ab96-1857ff681a15.png)
 ![元件尺寸1](http://github.com/lucky-lizhirui/lucky-lizhirui.github.io/blob/main/dbb43527-8515-4922-b6a9-22a127cffdd8.png)
 ![元件尺寸2](http://github.com/lucky-lizhirui/lucky-lizhirui.github.io/blob/main/47399e37-c083-4de5-a0df-e82bfc53ef83.png)
+<img width="680" height="449" alt="9661eb48-57d1-409a-b0a2-0e17d963fe7c" src="https://github.com/user-attachments/assets/8e144275-72d8-4ade-a3a9-caa618fefebb" />
